@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi, I'm Cai Chen. A full stack software engineer studying computer engineering at Iowa State University.
+Hi, I'm Cai Chen. A full stack software engineer studying computer engineering at Iowa State University. I have an interest 
+in full-stack web development and recently deployed a character guessing game similar to Wordle. Check it out here:
+https://chardle.com/ 
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/achen2304) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:achen2304@gmail.com) 
