@@ -36,7 +36,3 @@ Hi, I'm Cai Chen. A full stack software engineer studying computer engineering a
 
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=achen2304&theme=dark"></td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=achen2304&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
-
-## Connect with me
-
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/achen2304/" target="_blank">Cai Chen</a> Email: achen2304@gmail.com</p>
