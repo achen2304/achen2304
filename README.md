@@ -1,7 +1,3 @@
-## 💫 About Me:
-
-Hi, I'm Cai Chen. A full stack software engineer studying computer engineering at Iowa State University. I have an interest in full-stack web development and recently deployed a character guessing game similar to Wordle. Check it out here: https://chardle.com/
-
 ## My Skills
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"> 
