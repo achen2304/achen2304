@@ -1,11 +1,9 @@
-Dev who enjoys building stuff. Here are some stuff I build :)
+Dev who enjoys building stuff. Here are some stuff I built :)
 - portolio: [czchen.dev](https://portfolio.czchen.dev/)
 - chardle: [chardle.com](https://chardle.com/)
 - flutr: [flutr.org](https://flutr.org/)
 
 <br/>
-
-My stats: 
 
 <div align="center">
   
