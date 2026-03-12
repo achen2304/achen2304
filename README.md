@@ -1,7 +1,7 @@
 Dev who enjoys building stuff. Here are some stuff I built :)
 - portolio: [czchen.dev](https://portfolio.czchen.dev/)
 - chardle: [chardle.com](https://chardle.com/)
-- flutr: [flutr.org](https://flutr.org/)
+- flutr: [flutr.org](https://flutr.org/reiman-gardens)
 
 <br/>
 
