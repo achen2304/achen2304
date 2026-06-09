@@ -5,4 +5,8 @@ guy that enjoys web dev, here are some stuff that's currently up :)
 
 <br><br>
 
-[![GitHub Streak](https://stats.czchen.dev?user=achen2304&theme=transparent)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://stats.czchen.dev?user=achen2304&theme=transparent" alt="GitHub Streak" />
+  </a>
+</div>
