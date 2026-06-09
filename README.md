@@ -6,5 +6,5 @@ guy that enjoys web dev, here are some stuff that's currently up :)
 <br><br>
 
 <p align="center">
-  [![GitHub Streak](https://stats.czchen.dev?user=achen2304&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://stats.czchen.dev?user=achen2304&theme=transparent)](https://git.io/streak-stats)
 </p>
